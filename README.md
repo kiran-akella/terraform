@@ -157,7 +157,7 @@ resource "aws_instance" "example" {
 ## ☁️ Terraform Cloud & Enterprise
 
 - **Terraform Cloud** – Managed Terraform with collaboration features
-- 
+  
 - **Terraform Enterprise** – Self-hosted version for large organizations
 
 ---
